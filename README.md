@@ -6,6 +6,9 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+<p align="center">
+  <img src="./public/todo-preview.png" alt="To-Do List Website Screenshot" width="800"/>
+</p>
 
 
 ## 📌 Project Overview
