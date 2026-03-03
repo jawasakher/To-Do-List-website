@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 <p align="center">
-  <img src="./public/todo-preview.png" alt="To-Do List Website Screenshot" width="800"/>
+  <img src="todo-preview.jpg" alt="To-Do List Website Screenshot" width="800"/>
 </p>
 
 
